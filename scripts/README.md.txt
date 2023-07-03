@@ -1,0 +1,16 @@
+- Analysis of the Dataset 
+- Extract of the Data Dictionary (from Mongodb)
+- Create the Dimensional model 
+- Get the data from the surveys and Mongodb and filter the date to get the target data 
+- Convert Json Data into Dataframe 
+- Cleaning the Data
+- Analyze the location based on the state
+- Analyze grants and specialties 
+- Check Reference with State 
+- Check Reference with Ratings
+- Check Reference with Grants
+- Check Reference with Company
+- Create date Dimension 
+- Create Dimension using scripts
+- Create Mapping 
+- Send Data to Dimension
